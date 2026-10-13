@@ -1,0 +1,14 @@
+# Build output
+target/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Local config and secrets
+.env
+application-local.yml
